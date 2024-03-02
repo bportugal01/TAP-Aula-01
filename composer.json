@@ -1,0 +1,14 @@
+{
+    "name": "fatec/aula",
+    "autoload": {
+        "psr-4": {
+            "App": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bruno"
+        }
+    ],
+    "require": {}
+}
