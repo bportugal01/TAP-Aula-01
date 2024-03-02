@@ -2,7 +2,7 @@
     "name": "fatec/aula",
     "autoload": {
         "psr-4": {
-            "App": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
